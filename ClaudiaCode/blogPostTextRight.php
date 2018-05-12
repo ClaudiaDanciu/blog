@@ -8,14 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <!-- Bootstrap -->
-    <link rel='stylesheet' href='css/bootstrap.min.css'/>
-
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     <!-- Font Awesome -->
-    <link rel='stylesheet' href='css/font-awesome.min.css'/>
-
+    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
     <!-- Main Style -->
-    <link rel='stylesheet' href='css/style.css'/>
-
+    
+    <link href="css/style.css" rel="stylesheet" type="text/css"/>
 
     <!-- Google Fonts -->
     <link href='/fonts/sky-medium.woff' rel='stylesheet' type='text/css'>
